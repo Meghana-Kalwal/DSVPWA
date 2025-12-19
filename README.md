@@ -1,5 +1,7 @@
 # Damn Simple Vulnerable Python Web Application
 
+// test commit for sonar quality gate
+
 **DSVPWA** is a simple web application written in Python and mainly inspired by [DSVW](https://github.com/stamparm/DSVW). It is deliberately vulnerable for educational purposes to demonstrate some of the [OWASP TOP Ten](https://owasp.org/www-project-top-ten/) security risks and other vulnerabilities. It supposed to be used locally in a virtual machine or in a Docker container.
 
 ## Features
